@@ -11,9 +11,7 @@
 
     <div class="navbar-custom-menu">
       <ul class="nav navbar-nav">
-        <li>
-          <a href="?page=setting"><i class="fa fa-gears"></i></a>
-        </li>
+        <li><a href="?page=login"><i class="glyphicon glyphicon-log-in"></i> Login</a></li>
       </ul>
     </div>
   </nav>

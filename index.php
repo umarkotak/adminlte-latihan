@@ -1,3 +1,6 @@
+<?php session_start(); ?>
+<?php include "koneksi.php"; ?>
+
 <!DOCTYPE html>
 <html>
 <?php include "head.php"; ?>
